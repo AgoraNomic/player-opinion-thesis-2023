@@ -3,6 +3,7 @@
 ## freeform opinions
 ### what does Agora should be treated right good mean to you?
 ### What's your goal for Agora? 
+### What AGORA as an acronym stand for?
 
 ## axis opinions
 ### action
