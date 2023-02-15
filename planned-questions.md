@@ -1,4 +1,4 @@
-# Planned items (to be moved to its own file when the question is asked).
+# Planned items
 
 ## freeform opinions
 ### what does Agora should be treated right good mean to you?
