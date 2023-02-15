@@ -100,10 +100,17 @@ how much should agora be like a free-market?
 - 5 how players interact with eachother inside a system that can reward and pay people for labor is important to maintain officer existence.
 
 ### officers
-- 1 officer existence should be reduced as much as possible, anything that needs an officer could be fulfilled another way
+- 1 officer existence should be reduced as much as possible, anything that needs an officer could (probably) be fulfilled another way
 - 5 officers are the easiest way to track anything.
 
 ### cfjs
 are CFJs primary to gameplay?
 - 1 CFJs are a byproduct of poorly written rules
 - 5 CFJs are integral to the sanity of a system that relies on a sometimes-nebulous language as its foundation.
+
+### code
+are agoran rules code? and should they be?
+- YES they are code, and they should be
+- NO they aren't code, and should strive not to be
+- KINDA YES they aren't code, but they should try to be
+- KINDA NO they are (currently) code, and should strive not to be
