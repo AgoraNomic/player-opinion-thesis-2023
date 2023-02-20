@@ -17,6 +17,7 @@ For highlighting just what Right Good Forever comes from in history, and illumin
 https://principiadiscordia.com/book/70.php
 "Creative creation/destruction"
 
+# Preliminary player opinions
 ## 4st
 What AGORA as an acronym stand for? Agora Grades Ongoing Regularly Ascending
 ### PRO action (sometimes you just have to try things)
