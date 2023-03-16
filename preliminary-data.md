@@ -27,9 +27,11 @@ What AGORA as an acronym stand for? Agora Grades Ongoing Regularly Ascending
 ### ??? (nomic should be self referential.)
 ### CON drama (it can be hard to tell whether drama is legitimate or gameplay sometimes)
 ### CON cfjs
+### pls no jobs
 
 ## R. Lee
 ### PRO stress-testing
+### wants slower gameplay
 
 ## nix
 What AGORA as an acronym stand for? Agora Gets Obsessively Rule-focused Alot
@@ -59,6 +61,7 @@ What AGORA as an acronym stand for? Association of Grand Officers Regulating Act
 ### have fun
 ### make friends
 ### exploit things
+### use the rules
 
 ## juan
 ### we should have complicated things
